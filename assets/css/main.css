@@ -709,6 +709,12 @@ input, select, textarea {
 					display: none;
 				}
 
+	#bayou {
+		max-width: 500px;
+		padding-bottom: 0 auto 200px auto;
+		border-radius: 10px;
+	}
+
 /* Footer */
 
 	#footer {
