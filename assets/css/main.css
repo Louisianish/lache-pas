@@ -711,9 +711,11 @@ input, select, textarea {
 				}
 
 	#bayou {
+		width: 50%;
 		max-width: 500px;
 		padding-bottom: 0 auto 200px auto;
 		border-radius: 10px;
+		text-align: center;
 	}
 
 /* Footer */
